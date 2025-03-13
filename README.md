@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm **Bret Leasure**, a Solution Consultant at Tea
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### Tools:  
-![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-ED1A3B?logo=jetbrains&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-6a4c9c?logo=jetbrains&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
   ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FAA41A?logo=autodesk&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
