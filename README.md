@@ -14,13 +14,6 @@ Welcome to my GitHub profile! I'm **Bret Leasure**, a Solution Consultant at Tea
   ![VB.NET](https://img.shields.io/badge/VB.NET-8A2E00?logo=visualbasic&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-
-### Frameworks:  
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
-  ![WPF](https://img.shields.io/badge/WPF-6F4F37?logo=windows&logoColor=white)
-  ![WinForms](https://img.shields.io/badge/WinForms-00A9E0?logo=windows&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-
 ### Tools:  
 ![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-ED1A3B?logo=jetbrains&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
