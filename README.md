@@ -21,11 +21,5 @@ Welcome to my GitHub profile! I'm **Bret Leasure**, a Solution Consultant at Tea
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![Fork](https://img.shields.io/badge/Fork-Git%20Client-6E40C9)
 
-## 📌 Featured Projects
-- 🔧 **[Inventor.AddinTemplate](https://github.com/bretleasure/Inventor.AddinTemplate)**: A .NET template for Autodesk Inventor add-in development, designed to streamline the creation of powerful and efficient add-ins.
-- 🏗️ **[SheetList](https://github.com/bretleasure/SheetList)**: An Autodesk Inventor add-in that provides enhanced functionality for creating sheet lists within your Inventor drawings.
-- ⚙️ **[ViewReference](https://github.com/bretleasure/ViewReference)**: An add-in for Autodesk Inventor that creates drawing sheet references between parent and dependent view callouts and labels.
-- 🛠️ **[Inventor.InternalNames](https://github.com/bretleasure/Inventor.InternalNames)**: A repository containing a list of internal names for Autodesk Inventor, organized by categories like Ribbon, PropertySets, etc.
-
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you want to collaborate. 🚀
