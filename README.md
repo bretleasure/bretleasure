@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm **Bret Leasure**, a Solution Consultant at Tea
 ## 🚀 About Me
 - 💼 **Current Role**: Solution Consultant at Team D3's Automation Division working on their Ruler Platform
 - 💻 **Specialization**: CAD Automation and Autodesk Inventor add-in development
-- 🛠️ **Skills**: C#, .NET, API integrations, CAD automation, UI enhancements, plugin development
+- 🛠️ **Skills**: C#, .NET, CAD automation, Inventor addin development
 
 ## 🔨 Technologies & Tools
 
