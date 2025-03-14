@@ -7,14 +7,8 @@ Welcome to my GitHub profile! I'm **Bret Leasure**, a Solution Consultant at Tea
 - 💻 **Specialization**: CAD Automation and Autodesk Inventor add-in development
 - 🛠️ **Skills**: C#, .NET, CAD automation, Inventor addin development
 
-## 🔨 Technologies & Tools
+## 🔨 Tools I Use
 
-### Languages:  
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-  ![VB.NET](https://img.shields.io/badge/VB.NET-8A2E00?logo=visualbasic&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### Tools:  
 ![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-6a4c9c?logo=jetbrains&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
   ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FAA41A?logo=autodesk&logoColor=white)
