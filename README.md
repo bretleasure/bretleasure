@@ -1,11 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Bret Leasure**, a Solution Consultant at Team D3's Automation Division. I specialize in CAD automation and Autodesk Inventor add-in development.
+Welcome to my GitHub profile! I'm **Bret Leasure**, and I specialize in CAD automation and Autodesk Inventor add-in development.
 
 ## 🚀 About Me
-- 💼 **Current Role**: Solution Consultant at Team D3's Automation Division working on their Ruler Platform
-- 💻 **Specialization**: CAD Automation and Autodesk Inventor add-in development
-- 🛠️ **Skills**: C#, .NET, CAD automation, Inventor addin development
+- 💻 **Specialization**: CAD Automation, primarily with Autodesk Inventor
+- 🛠️ **Skills**: C#, .NET, CAD automation
 
 ## 🔨 Tools I Use
 
