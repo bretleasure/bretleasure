@@ -1,10 +1,6 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile! I'm **Bret Leasure**, and I specialize in CAD automation and Autodesk Inventor add-in development.
-
 ## 🚀 About Me
 - 💻 **Specialization**: CAD Automation, primarily with Autodesk Inventor
-- 🛠️ **Skills**: C#, .NET, CAD automation
+- 🛠️ **Skills**: C#, .NET
 
 ## 🔨 Tools I Use
 
